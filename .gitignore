@@ -1,0 +1,6 @@
+*.exe
+*.orig
+*~
+*.swp
+bin/
+obj/
